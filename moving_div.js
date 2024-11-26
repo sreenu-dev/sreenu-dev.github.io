@@ -67,3 +67,7 @@ let divHeight = div1.clientHeight;
 moveDiv(div1, -1, 1);
 moveDiv(div2, -1, -1);
 moveDiv(div3, 1, -1)
+
+function downloadResume(){
+    window.open('https://drive.google.com/file/d/13fUBXVFgmMXzXRQrqJj8vIiX3iBJa8Bz/view?usp=sharing', '_blank');
+}
