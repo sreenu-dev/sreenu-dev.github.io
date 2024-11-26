@@ -110,3 +110,8 @@
     opacity: 1;
     background-color: #00796b;
   }
+
+  .future-scope{
+    background-color: aqua;
+    display: none;
+  }
